@@ -6,10 +6,10 @@ and abstract classes for a Plane, its Compartments and its Employees
 
 ## Usage Instructions for the program:
 
-1.Open Linux terminal
-2.Type `unzip askisi3.zip`
-3.TYPE `make`
-4.TYPE `./main`
+1.Open Linux terminal <br>
+2.Type `unzip askisi3.zip` <br>
+3.TYPE `make` <br>
+4.TYPE `./main` 
 
 ## Program design idea:
 
