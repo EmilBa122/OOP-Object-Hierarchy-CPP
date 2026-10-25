@@ -1,8 +1,8 @@
 # OOP Object Hierarchy CPP
 
 ## Assignment Description
-Implementing in C++ a class hierarchy with Object as the root class using Object-Oriented Programming, i.e. using inheritance 
-and abstract classes for a Plane, its Compartments and its Employees
+Implementation in C++ of a class hierarchy with Object as the root class, using Object-Oriented Programming
+(inheritance, virtual functions and abstract classes) for a Plane, its Compartments and its Employees.
 
 ## Usage Instructions for the program:
 
